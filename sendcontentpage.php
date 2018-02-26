@@ -7,6 +7,7 @@
         <input type ="text" name = "mytopic" placeholder = "Type your idea here">
 
     <button>Submit</button>
-
+  </form>
+  <a href="Frontpage.php">Go Back</a>
   </body>
 </html>
